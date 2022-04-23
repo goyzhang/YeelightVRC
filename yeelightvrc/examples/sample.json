@@ -1,0 +1,23 @@
+{
+    "power": "on",
+    "bright": "78",
+    "ct": "4000",
+    "rgb": "2339327",
+    "hue": "201",
+    "sat": "86",
+    "color_mode": "2",
+    "flowing": "0",
+    "delayoff": "0",
+    "music_on": "0",
+    "name": "None",
+    "bg_power": "on",
+    "bg_flowing": "0",
+    "bg_ct": "4000",
+    "bg_bright": "66",
+    "bg_hue": "201",
+    "bg_sat": "86",
+    "bg_rgb": "2339327",
+    "nl_br": "None",
+    "active_mode": "None",
+    "current_brightness": "78"
+}
